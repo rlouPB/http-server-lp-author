@@ -5,7 +5,7 @@ enum Lang {
   Chinese,
   Texan,
 }
-
+ 
 struct Greeting {
     message: String,
     lang: Lang,
